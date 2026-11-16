@@ -14,6 +14,11 @@
         <version>7.1.0-M2</version>
         <scope>compile</scope>
     </dependency>
+    <dependency>
+        <groupId>ch.qos.logback</groupId>
+        <artifactId>logback-classic</artifactId>
+        <version>1.6.6</version>
+    </dependency>
 </dependencies>
     <properties>
         <maven.compiler.source>27</maven.compiler.source>
